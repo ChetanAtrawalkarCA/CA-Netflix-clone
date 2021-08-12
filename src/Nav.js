@@ -25,9 +25,9 @@ function Nav() {
         Sign In
       </button>
       {/* <img
-        className="nav__avatar"
-        src="https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c23c1.png"
-        alt="Avatar logo"
+        className="user-logo"
+        src="https://www.cleanpng.com/png-computer-icons-symbol-user-profile-logo.png"
+        alt="User logo"
       /> */}
     </div>
   );
